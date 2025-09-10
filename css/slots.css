@@ -230,6 +230,7 @@ body{
     line-height: 25px;
 }
 .more_info{
+  padding: 5px;
   border: solid 1px #75ff00a3;
   margin-left: auto;
   flex: 33.3333%;
@@ -498,4 +499,5 @@ a span:nth-child(5) {
     a span {
       font-size: 14px;
     }
+
 }
